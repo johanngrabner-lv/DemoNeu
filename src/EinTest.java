@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class EinTest {
+public class EinTest {
+
+    public static void main(String[] args){
+
+    }
 }
